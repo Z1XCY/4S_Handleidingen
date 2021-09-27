@@ -4,6 +4,7 @@
     <p>{{ __('introduction_texts.homepage_line_1') }}</p>
     <p>{{ __('introduction_texts.homepage_line_2') }}</p>
     <p>{{ __('introduction_texts.homepage_line_3') }}</p>
+    <b>{{ $name }}</b>
 @endsection
 
 @section('content')

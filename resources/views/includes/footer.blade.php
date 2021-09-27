@@ -1,6 +1,10 @@
 
 <footer>
 	© {{ __('misc.copyright') }}
+  <a href="">Over ons</a>
+  <a href="">Contact</a>
+  <a href="">Twitter</a>
+  <a href="">Facebook</a>
 </footer>
 
 
